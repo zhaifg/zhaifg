@@ -1,1 +1,152 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":true},"profile":{"name":"翟凤国","email":"zhaifengguo@foxmail.com","mobile":"15061797838","github":"https://github.com/zhaifg","zhihu":"","workExpYear":"14","workPlace":"无锡","positionTitle":"前端工程师"},"educationList":[{"edu_time":["2006.09.01","2009.06.30"],"school":"德州学院","major":"计算机网络","academic_degree":"本科","dataIndex":0}],"awardList":[],"workExpList":[{"company_name":"无锡一米工作有限公司","department_name":"研发部","work_time":["2015.12","2024.06 "],"work_desc":"1. 公司招聘平台产品Web端前端开发、迭代维护。\n2. 公司线上各个平台的架构设计，环境部署等。\n3. 自动化运维开发以及集成。","dataIndex":0},{"company_name":"无锡朗奇软件有限公司","department_name":"运维部","work_time":["2012.03","2015.12   "],"work_desc":"1.  负责公司电商项目的规划及运维工作。\n2.  负责电商云和行政云环境搭建及监控，包括处理服务请求异常问题定位及修复等运维操作。","dataIndex":1},{"company_name":"无锡曙光系统集成有限公司","department_name":"运维","work_time":["2010.08","2012.02"],"work_desc":" 负责曙光的无锡城市云项目的机房运维： 服务器上架，系统安装，环境部署等。","dataIndex":2}],"skillList":[{"skill_name":"HTML /CSS","skill_desc":"HTML /CSS","skill_level":90,"dataIndex":0},{"skill_name":"TypeScript / JavaScript","skill_level":90,"dataIndex":1,"skill_desc":"TypeScript / JavaScript"},{"skill_name":"Python/Django/Flask","skill_desc":"Python/Django/Flask","skill_level":80,"dataIndex":2},{"skill_name":"Linux运维/服务器性能优化","skill_level":90,"skill_desc":"Linux运维/服务器性能优化","dataIndex":3}],"projectList":[{"project_name":"体检健康管理平台","project_role":"前端工程师","project_time":"2023.08 - 2024.06","project_desc":"公司业务转型做的体检健康管理平台，用于配合公司开设的线下体检门店使用 ，用\n户可在小程序端申请体检 、进行体检 、在线查看体检报告等，运营端可对所有门店\n进行管理、用户进行管理、体检数据进行上传、分析、上传报告等。","project_content":"技术框架：Element UI + Vue3 + TypeScript + uni-app\n1. 负责后端运营系统的前端开发工作。\n2. 负责部分小程序端的开发工作。","dataIndex":0},{"project_name":"人力资源管理平台","project_role":"前端工程师","project_time":"2022.06 - 2023.10","project_desc":"各地政府部门人力资源部门使用的业务管理系统。","project_content":"技术框架：Vue2、Element UI、Ant Design\n项目职责：\n1、负责系统前端开发开发，项目后期的维护、迭代","dataIndex":1},{"project_name":"一米工作管理后台","project_role":"前端工程师","project_time":"2018.11-2020.12","project_desc":"公司线上招聘的平台的管理后台的dwz升级到Vue2+element ui","project_content":"1. 负责系统前端开发开发，项目后期的维护、迭代","dataIndex":2},{"project_time":"2018.11-2020.12","project_name":"灵活用工系统","project_role":"前端工程师","project_desc":"灵活用工系统是一个云端平台型系统 ，企业客户在平台上发布任务 ，商户或者个人接任\n务 ，类似猪八戒 。系统包括 ：平台运营管理系统 、企业客户端 ，商户/个人端 ，小程\n序端 、App端。","project_content":"技术框架：Element UI + Vue2 + uni-app + Java\n项目职责：\n1.  参与运营管理系统前端开发。\n2.  负责小程序端迭代。","dataIndex":3},{"project_time":"2016.11-2019.12","project_name":"自动化运维系统","project_role":"运维开发","project_desc":"公司的cmdb项目，以及自动化部署系统开发。","project_content":"技术框架：Element UI + Vue2 + Django/flask\n项目职责：\n1、设计/开发/测试。\n","dataIndex":4},{"project_time":"2012.2-2015.12","project_name":"浙江工商银行工银聚电商运维","project_role":"运维开发","project_desc":"浙江工商银行工银聚， 是一个B2B的电商平台。 ","project_content":"1.  Linux环境的部署，应用上线， 性能优化，故障排除等。\n"}],"workList":[],"aboutme":{"aboutme_desc":"8年以上前端开发经验 ，包括后台管理系统前端开发 、微信小程序开发 、混合开发、跨端开发，研发/运维经验丰富。最近几年聚焦于 Web 后台管理系统前\n端开发 。技术型 、一线核心开发人员 。逻辑能力强 ，善于专研 、解决技术难题 。\n1、技术语言：Vue2/Vu3、Python等。\n2、常用后台管理框架：Element UI 、Ant Design等。\n3、 Django， Flask项目开发。\n4、小程序开发：小程序原生、uni-app。\n5、熟悉低代码等前端技术，有应用于实际产品和项目经验。\n6、精通Linux运维，docker/k8s等\n    "},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "hidden": true
+    },
+    "profile": {
+        "name": "翟凤国",
+        "email": "zhaifengguo@foxmail.com",
+        "mobile": "15061797838",
+        "github": "https://github.com/zhaifg",
+        "zhihu": "",
+        "workExpYear": "14",
+        "workPlace": "无锡",
+        "positionTitle": "前端工程师"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2006.09.01",
+                "2009.06.30"
+            ],
+            "school": "德州学院",
+            "major": "计算机网络",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [],
+    "workExpList": [
+        {
+            "company_name": "无锡一米工作有限公司",
+            "department_name": "研发部",
+            "work_time": [
+                "2015.12",
+                "2024.06 "
+            ],
+            "work_desc": "1. 公司招聘平台产品Web端前端开发、迭代维护。\n2. 公司线上各个平台的架构设计，环境部署等。\n3. 自动化运维开发以及集成。",
+            "dataIndex": 0
+        },
+        {
+            "company_name": "无锡朗奇软件有限公司",
+            "department_name": "运维部",
+            "work_time": [
+                "2012.03",
+                "2015.12   "
+            ],
+            "work_desc": "1.  负责公司电商项目的规划及运维工作。\n2.  负责电商云和行政云环境搭建及监控，包括处理服务请求异常问题定位及修复等运维操作。",
+            "dataIndex": 1
+        },
+        {
+            "company_name": "无锡曙光系统集成有限公司",
+            "department_name": "运维",
+            "work_time": [
+                "2010.08",
+                "2012.02"
+            ],
+            "work_desc": " 负责曙光的无锡城市云项目的机房运维： 服务器上架，系统安装，环境部署等。",
+            "dataIndex": 2
+        }
+    ],
+    "skillList": [
+        {
+            "skill_name": "HTML /CSS",
+            "skill_desc": "HTML /CSS",
+            "skill_level": 90,
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "TypeScript / JavaScript",
+            "skill_level": 90,
+            "dataIndex": 1,
+            "skill_desc": "TypeScript / JavaScript"
+        },
+        {
+            "skill_name": "Python/Django/Flask",
+            "skill_desc": "Python/Django/Flask",
+            "skill_level": 80,
+            "dataIndex": 2
+        },
+        {
+            "skill_name": "Linux运维/服务器性能优化",
+            "skill_level": 90,
+            "skill_desc": "Linux运维/服务器性能优化",
+            "dataIndex": 3
+        }
+    ],
+    "projectList": [
+        {
+            "project_name": "体检健康管理平台",
+            "project_role": "前端工程师",
+            "project_time": "2023.08 - 2024.06",
+            "project_desc": "公司业务转型做的体检健康管理平台，用于配合公司开设的线下体检门店使用 ，用\n户可在小程序端申请体检 、进行体检 、在线查看体检报告等，运营端可对所有门店\n进行管理、用户进行管理、体检数据进行上传、分析、上传报告等。",
+            "project_content": "技术框架：Element UI + Vue3 + TypeScript + uni-app\n1. 负责后端运营系统的前端开发工作。\n2. 负责部分小程序端的开发工作。",
+            "dataIndex": 0
+        },
+        {
+            "project_name": "人力资源管理平台",
+            "project_role": "前端工程师",
+            "project_time": "2022.06 - 2023.10",
+            "project_desc": "各地政府部门人力资源部门使用的业务管理系统。",
+            "project_content": "技术框架：Vue2、Element UI、Ant Design\n项目职责：\n1、负责系统前端开发开发，项目后期的维护、迭代",
+            "dataIndex": 1
+        },
+        {
+            "project_name": "一米工作管理后台",
+            "project_role": "前端工程师",
+            "project_time": "2018.11-2020.12",
+            "project_desc": "公司线上招聘的平台的管理后台的dwz升级到Vue2+element ui",
+            "project_content": "1. 负责系统前端开发开发，项目后期的维护、迭代",
+            "dataIndex": 2
+        },
+        {
+            "project_time": "2018.11-2020.12",
+            "project_name": "灵活用工系统",
+            "project_role": "前端工程师",
+            "project_desc": "灵活用工系统是一个云端平台型系统 ，企业客户在平台上发布任务 ，商户或者个人接任\n务 ，类似猪八戒 。系统包括 ：平台运营管理系统 、企业客户端 ，商户/个人端 ，小程\n序端 、App端。",
+            "project_content": "技术框架：Element UI + Vue2 + uni-app + Java\n项目职责：\n1.  参与运营管理系统前端开发。\n2.  负责小程序端迭代。",
+            "dataIndex": 3
+        },
+        {
+            "project_time": "2016.11-2019.12",
+            "project_name": "自动化运维系统",
+            "project_role": "运维开发",
+            "project_desc": "公司的cmdb项目，以及自动化部署系统开发。",
+            "project_content": "技术框架：Element UI + Vue2 + Django/flask\n项目职责：\n1、设计/开发/测试。\n",
+            "dataIndex": 4
+        },
+        {
+            "project_time": "2012.2-2015.12",
+            "project_name": "浙江工商银行工银聚电商运维",
+            "project_role": "运维开发",
+            "project_desc": "浙江工商银行工银聚， 是一个B2B的电商平台。 ",
+            "project_content": "1.  Linux环境的部署，应用上线， 性能优化，故障排除等。\n"
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "8年以上前端开发经验 ，包括后台管理系统前端开发 、微信小程序开发 、混合开发、跨端开发，研发/运维经验丰富。最近几年聚焦于 Web 后台管理系统前\n端开发 。技术型 、一线核心开发人员 。逻辑能力强 ，善于专研 、解决技术难题 。\n1、技术语言：Vue2/Vue3、React、Python等。\n2、常用后台管理框架：Element UI 、Ant Design等。\n3、 Django， Flask项目开发。\n4、小程序开发：小程序原生、uni-app。\n5、熟悉低代码等前端技术，有应用于实际产品和项目经验。\n6、精通Linux运维，Docker/K8S等\n    "
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
