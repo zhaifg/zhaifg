@@ -1,5 +1,6 @@
 {
-    "titleNameMap": {
+    "titleNameMap":
+    {
         "educationList": "教育背景",
         "workExpList": "工作经历",
         "projectList": "项目经历",
@@ -8,22 +9,26 @@
         "workList": "个人作品",
         "aboutme": "自我介绍"
     },
-    "avatar": {
+    "avatar":
+    {
         "hidden": true
     },
-    "profile": {
+    "profile":
+    {
         "name": "翟凤国",
         "email": "zhaifengguo@foxmail.com",
         "mobile": "15061797838",
         "github": "https://github.com/zhaifg",
         "zhihu": "",
-        "workExpYear": "14",
+        "workExpYear": "15",
         "workPlace": "无锡",
         "positionTitle": "前端工程师"
     },
-    "educationList": [
+    "educationList":
+    [
         {
-            "edu_time": [
+            "edu_time":
+            [
                 "2006.09.01",
                 "2009.06.30"
             ],
@@ -33,12 +38,15 @@
             "dataIndex": 0
         }
     ],
-    "awardList": [],
-    "workExpList": [
+    "awardList":
+    [],
+    "workExpList":
+    [
         {
             "company_name": "无锡一米工作有限公司",
             "department_name": "研发部",
-            "work_time": [
+            "work_time":
+            [
                 "2015.12",
                 "2024.06 "
             ],
@@ -48,7 +56,8 @@
         {
             "company_name": "无锡朗奇软件有限公司",
             "department_name": "运维部",
-            "work_time": [
+            "work_time":
+            [
                 "2012.03",
                 "2015.12   "
             ],
@@ -58,26 +67,38 @@
         {
             "company_name": "无锡曙光系统集成有限公司",
             "department_name": "运维",
-            "work_time": [
+            "work_time":
+            [
                 "2010.08",
                 "2012.02"
             ],
             "work_desc": " 负责曙光的无锡城市云项目的机房运维： 服务器上架，系统安装，环境部署等。",
             "dataIndex": 2
+        },
+        {
+            "work_time":
+            [
+                "2025.06",
+                "2025.12 "
+            ],
+            "company_name": "无锡马上云有限公司",
+            "department_name": "研发部",
+            "work_desc": "1. 负责体检 CRM 系统 PC 端管理平台的核心开发与迭代，基于 Vue3、AVue 等技术栈搭建高可用、高性能的前端界面，覆盖体检预约、报告管理、客户档案、数据统计等核心业务模块；\n2. 基于 uni-app 开发跨端管理类应用（覆盖微信小程序 / APP/H5），适配体检场景下的移动化管理需求，保障多端交互体验一致性与功能完整性；\n3. 参与前端技术方案设计、接口联调及问题排查，与后端、产品团队协作，确保业务需求精准落地，优化前端性能与用户体验；\n4. 维护前端代码规范与工程化体系，沉淀体检行业前端通用组件 / 解决方案，提升团队研发效率；"
         }
     ],
-    "skillList": [
+    "skillList":
+    [
         {
-            "skill_name": "HTML /CSS",
-            "skill_desc": "HTML /CSS",
+            "skill_name": "HTML /CSS/JAVASCRIPT",
+            "skill_desc": "HTML /CSS/JAVASCRIPT",
             "skill_level": 90,
             "dataIndex": 0
         },
         {
-            "skill_name": "TypeScript / JavaScript",
+            "skill_name": "Vue/ React",
             "skill_level": 90,
             "dataIndex": 1,
-            "skill_desc": "TypeScript / JavaScript"
+            "skill_desc": "Vue/ React"
         },
         {
             "skill_name": "Python/Django/Flask",
@@ -92,7 +113,8 @@
             "dataIndex": 3
         }
     ],
-    "projectList": [
+    "projectList":
+    [
         {
             "project_name": "体检健康管理平台",
             "project_role": "前端工程师",
@@ -139,13 +161,23 @@
             "project_role": "运维开发",
             "project_desc": "浙江工商银行工银聚， 是一个B2B的电商平台。 ",
             "project_content": "1.  Linux环境的部署，应用上线， 性能优化，故障排除等。\n"
+        },
+        {
+            "project_time": "2025.06 - 2025.12",
+            "project_name": "航天CRM健康管理平台",
+            "project_role": "前端工程师",
+            "project_desc": "基于 Vue3+AVue 构建 PC 端管理平台，通过 uni-app 开发跨端应用，核心功能模块包括：\n\n1. 预约管理：支持个人 / 团队体检预约、时段排班、预约改期 / 取消，联动体检套餐自动校验适配；\n2. 订单与套餐管理：体检套餐配置（价格、项目、适用人群）、订单生成 / 支付 / 退款、订单状态全链路跟踪；\n3. 客户档案：统一管理客户基础信息、体检历史、健康档案，支持档案查询、导出与权限管控；\n4. 报告管理：体检报告录入、审核、发布、在线查看 / 下载，支持异常指标标注与医生批注；\n5. 数据统计：多维度可视化分析（体检量、套餐销量、报告完成率、客户转化率等），为运营决策提供数据支撑。\n",
+            "project_content": "作为体检 CRM 系统前端主程序，全程主导系统 PC 端（Vue3+AVue）与跨端应用（uni-app）的技术架构设计、核心开发与团队统筹：\n负责前端技术方案选型与落地，基于 Vue3 Composition API 搭建工程化架构，封装体检行业通用组件（如预约表单、报告预览、数据统计图表），基于 AVue 优化后台管理界面开发效率；\n主导核心业务模块开发：统筹个人 / 团队体检预约、套餐 / 订单管理、客户档案、报告审核、数据可视化等核心模块的前端实现，攻克多端适配、大数据量表格渲染、权限精细化控制等技术难点；\n对接产品、后端团队拆解业务需求，制定前端开发规范与迭代计划；\n负责前端性能优化与问题兜底，优化接口请求策略、页面加载速度，解决多端（小程序 / H5/APP）兼容问题。"
         }
     ],
-    "workList": [],
-    "aboutme": {
-        "aboutme_desc": "8年以上前端开发经验 ，包括后台管理系统前端开发 、微信小程序开发 、混合开发、跨端开发，研发/运维经验丰富。最近几年聚焦于 Web 后台管理系统前\n端开发 。技术型 、一线核心开发人员 。逻辑能力强 ，善于专研 、解决技术难题 。\n1、技术语言：Vue2/Vue3、React、Python等。\n2、常用后台管理框架：Element UI 、Ant Design等。\n3、 Django， Flask项目开发。\n4、小程序开发：小程序原生、uni-app。\n5、熟悉低代码等前端技术，有应用于实际产品和项目经验。\n6、精通Linux运维，Docker/K8S等\n    "
+    "workList":
+    [],
+    "aboutme":
+    {
+        "aboutme_desc": "8 年 + 前端全栈开发经验，聚焦 Web 后台管理系统核心研发，兼任一线核心开发，兼具前端架构设计、多端开发与 DevOps 运维复合能力。主导 / 核心参与多个中大型项目从 0 到 1 落地，擅长拆解业务难点，以高效方案提升研发效率与系统稳定性。\n核心技术：精通 Vue2/Vue3（Composition API）、React 生态，熟练运用 Element UI/Plus、Ant Design 构建高可用界面；掌握微信小程序原生、uni-app 跨端开发及混合开发；熟悉 Django、Flask 框架与 Python 脚本开发，可独立完成前后端联调；深耕低代码二次开发并落地实际产品；精通 Linux 操作、Docker 容器化与 K8S 集群管理，具备前端 CI/CD 流程搭建经验。"
     },
-    "theme": {
+    "theme":
+    {
         "color": "#2f5785",
         "tagColor": "#8bc34a"
     }
